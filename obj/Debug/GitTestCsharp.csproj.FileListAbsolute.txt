@@ -1,0 +1,8 @@
+C:\Users\Marius\Desktop\GitTestCsharp\GitTestCsharp\bin\Debug\GitTestCsharp.exe
+C:\Users\Marius\Desktop\GitTestCsharp\GitTestCsharp\bin\Debug\GitTestCsharp.pdb
+C:\Users\Marius\Desktop\GitTestCsharp\GitTestCsharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marius\Desktop\GitTestCsharp\GitTestCsharp\obj\Debug\GitTestCsharp.Form1.resources
+C:\Users\Marius\Desktop\GitTestCsharp\GitTestCsharp\obj\Debug\GitTestCsharp.Properties.Resources.resources
+C:\Users\Marius\Desktop\GitTestCsharp\GitTestCsharp\obj\Debug\GitTestCsharp.csproj.GenerateResource.Cache
+C:\Users\Marius\Desktop\GitTestCsharp\GitTestCsharp\obj\Debug\GitTestCsharp.exe
+C:\Users\Marius\Desktop\GitTestCsharp\GitTestCsharp\obj\Debug\GitTestCsharp.pdb
